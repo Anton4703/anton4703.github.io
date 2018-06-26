@@ -13,3 +13,8 @@ $(".tab3").click(function (){
     $("[class^=hide]").hide();
     $("[class^=hide3]").show();
 });
+
+$(".tab4").click(function (){
+    $("[class^=hide]").hide();
+    $("[class^=hide4]").show();
+});
